@@ -1,0 +1,3 @@
+i made a system where it gives u moisture level on oled screen the program is 
+very well explained in details and some things in this program u might change 
+it depends on ur need but all of it will be seen where thank you for your time hope u like my future projects also.
