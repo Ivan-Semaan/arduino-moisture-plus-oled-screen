@@ -1,5 +1,6 @@
 /* u need to introduce your program for adafruit library which is adafruit SSD1306 IF IT IS WITH RESET PIN u need to change somethings in code
  *  i did a intelligent watering system it fully functions hope you like the code if u want something new made or new project ill put a link where to message me 
+ in oled slk is at pin 5 and sda at pin 4
  */
 #include <SPI.h>
 #include <Wire.h>
