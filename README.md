@@ -2,7 +2,7 @@
 system where we just make the water be pushed by pump to water plants
 i made a rpogram to water plans any issues or how to design it or what to do i can help you
 the materials i used for testing  
-1. 12 volt battery 
+1. 12 volt battery 5 watt
 2. solar panel 
 3. pump  
 4. 10 mm hose  
