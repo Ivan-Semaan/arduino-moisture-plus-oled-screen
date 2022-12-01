@@ -1,7 +1,9 @@
 # arduino-moisture-plus-oled-screen
-system where we just make the water be pushed by pump to water plants
-i made a rpogram to water plans any issues or how to design it or what to do i can help you
-the materials i used for testing  
+system where we just make the water be pushed by pump to water plants know as smart watering system.
+works by turning on the pump when sensor feels the soil is dry.
+you need to edit the poteiometer on sensor according to ur use.
+i made a proram to water
+The materials i used for testing:  
 1. 12 volt battery 5 watt
 2. solar panel 
 3. pump  
